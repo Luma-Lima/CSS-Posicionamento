@@ -1,0 +1,49 @@
+.topo{
+	background-color: green;
+    color: white;
+    text-align: center;
+	font-size: 40px;
+}
+
+#list{
+	background-color: blue;
+	text-align: center;
+	height: 100%;
+	width: 200px;
+	position: fixed;
+	padding-top: 150px;
+	
+}
+
+li{
+	list-style: none; 
+    margin: 30px;
+    display: inline;
+}
+a{
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+  background-color: blue;
+
+}
+
+*{
+    background-color: #00BFFF;
+	margin: 0;
+    padding: 0;
+
+}
+h1{
+
+	text-align: center;
+	margin: 250px;
+}
+
+footer {
+    position:absolute;
+    bottom:0;
+    width: 100%;
+	
+}
